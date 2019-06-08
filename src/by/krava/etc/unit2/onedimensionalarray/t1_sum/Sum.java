@@ -5,6 +5,7 @@ package by.krava.etc.unit2.onedimensionalarray.t1_sum;
  */
 
 public class Sum {
+
     public static void main(String[] args) {
         int [] array = {25, 15, 30, 55, 60, 10, 100, 17, 81, 90};
         int k = 2;
