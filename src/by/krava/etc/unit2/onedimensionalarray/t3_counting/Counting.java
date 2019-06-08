@@ -10,7 +10,8 @@ import java.util.Scanner;
 public class Counting {
 
     public static void main(String[] args) {
-        int n, mas [];
+        int n;
+        int[] mas;
         int negative = 0;
         int zero = 0;
         int positive = 0;
