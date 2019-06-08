@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="upload">
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/branch/t1_triangle/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/branch/t2_maxmin/Maxmin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/branch/t3_pointonline/PointsOnLine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/branch/t4_brick/Brick.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/branch/t5_function/Function.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/cycle/t1_sum/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/cycle/t2_function/Function.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/cycle/t3_sumofsquare/SumOfSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/cycle/t4_productofsquare/ProductOfSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/cycle/t5_sequence/Sequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/cycle/t6_charandint/CharAndInt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/cycle/t7_commondivision/CommonDivision.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/cycle/t8_commonnumbers/CommonNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/line/t1_function/Function.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/line/t2_expression1/Expression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/line/t3_expression2/Expression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/line/t4_replacement/Replacement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/line/t5_time/Time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit1/line/t6_coordinate/Coordinate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit2/onedimensionalarray/t1_sum/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_EpamTrainingCenter/unit2/onedimensionalarray/t2_replacement/Replacement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t2_replacement/Replacement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -54,10 +35,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t1_triangle/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="238">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -69,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/line/t2_expression1/Expression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
+            <state relative-caret-position="153">
               <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
@@ -121,7 +111,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/Task_EpamTrainingCenter" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -155,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t1_sum/Sum.java" />
         <option value="$PROJECT_DIR$/src/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensionalarray/t1_sum/Sum.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t2_replacement/Replacement.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -170,8 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -188,15 +177,63 @@
               <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Task_EpamTrainingCenter" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="onedimensionalarray" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="onedimensionalarray" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t2_replacement" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
@@ -285,53 +322,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Task_EpamTrainingCenter" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Task_EpamTrainingCenter" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Replacement" />
@@ -365,8 +355,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -492,9 +483,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Task_EpamTrainingCenter/line/t3_expression2/Expression.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit1/branch/t1_triangle/Triangle.class" />
+    <entry file="file://$PROJECT_DIR$/Task_EpamTrainingCenter/unit2/onedimensionalarray/t2_replacement/Replacement.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t1_sum/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t1_triangle/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/line/t2_expression1/Expression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
+        <state relative-caret-position="153">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
@@ -527,46 +538,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task_EpamTrainingCenter/line/t3_expression2/Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t1_triangle/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit1/branch/t1_triangle/Triangle.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#1049#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task_EpamTrainingCenter/unit2/onedimensionalarray/t2_replacement/Replacement.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t1_sum/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t2_replacement/Replacement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
