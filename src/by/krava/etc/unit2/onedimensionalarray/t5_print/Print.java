@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Print {
 
     public static void main(String[] args) {
-        int mas[];
+        int[] mas;
         int n;
         Scanner scanner = new Scanner(System.in);
 
