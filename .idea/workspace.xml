@@ -16,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t3_counting/Counting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            <state relative-caret-position="289">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t4_replacement/Replacement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-56">
+              <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -71,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t2_replacement/Replacement.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t3_counting/Counting.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t4_replacement/Replacement.java" />
       </list>
     </option>
   </component>
@@ -80,7 +90,9 @@
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -172,6 +184,17 @@
               <item name="onedimensionalarray" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="t3_counting" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="onedimensionalarray" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t4_replacement" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -203,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Counting">
+  <component name="RunManager" selected="Application.Replacement (2)">
     <configuration name="Counting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.onedimensionalarray.t3_counting.Counting" />
       <module name="Task_EpamTrainingCenter" />
@@ -223,6 +246,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="by.krava.etc.unit2.onedimensionalarray.t2_replacement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Replacement (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.onedimensionalarray.t4_replacement.Replacement" />
+      <module name="Task_EpamTrainingCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.krava.etc.unit2.onedimensionalarray.t4_replacement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,26 +292,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit1.branch.t1_triangle.Triangle" />
-      <module name="Task_EpamTrainingCenter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit1.branch.t1_triangle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Replacement (2)" />
         <item itemvalue="Application.Counting" />
         <item itemvalue="Application.Replacement" />
         <item itemvalue="Application.Replacement (1)" />
         <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +348,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560010323659</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DONE task unit2.onedimensionalarray.t3_counting">
+      <created>1560011465241</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560011465241</updated>
+    </task>
+    <task id="LOCAL-00007" summary="DONE task unit2.onedimensionalarray.t4_replacement">
+      <created>1560013628400</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560013628400</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -341,12 +378,12 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.215781" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.215781" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.22866344" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
@@ -364,7 +401,8 @@
     <MESSAGE value="upload" />
     <MESSAGE value="update" />
     <MESSAGE value="DONE task unit2.onedimensionalarray.t3_counting" />
-    <option name="LAST_COMMIT_MESSAGE" value="DONE task unit2.onedimensionalarray.t3_counting" />
+    <MESSAGE value="DONE task unit2.onedimensionalarray.t4_replacement" />
+    <option name="LAST_COMMIT_MESSAGE" value="DONE task unit2.onedimensionalarray.t4_replacement" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../1_Basics_of_software_code_development/task/task.iml" />
@@ -538,8 +576,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t3_counting/Counting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="289">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t4_replacement/Replacement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
         </state>
       </provider>
     </entry>
