@@ -11,7 +11,7 @@ public class Replacement {
 
     public static void main(String[] args) {
         int n, min, max;
-        int mas [];
+        int [] mas;
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Введите значение \"n\":");
