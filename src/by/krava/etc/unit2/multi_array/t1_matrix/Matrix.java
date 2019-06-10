@@ -24,8 +24,8 @@ public class Matrix {
         matrix = new int[m][n];
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
-                int sing = Math.random() < 0.5 ? -1 : 1;
-                matrix[i][j] = (int) (Math.random() * 100) * sing;
+                int sign = Math.random() < 0.5 ? -1 : 1;
+                matrix[i][j] = (int) (Math.random() * 100) * sign;
                 System.out.printf("%3d ", matrix[i][j]);
             }
             System.out.println();
