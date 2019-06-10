@@ -26,12 +26,17 @@ public class CompressArray {
         for (int i = 0; i < array.length; i++) {
             int sing = Math.random() < 0.5 ? -1 : 1;
             array[i] = (int) (Math.random() * 100) * sing;
-            System.out.printf("%d ", array[i]);
+            System.out.printf("%3d ", array[i]);
         }
 
         //выбрасываем каждый второй элемент
         for (int i = 1; i < array.length; i += 2) {
             array[i] = 0;
+        }
+
+        System.out.println("\n\nНовая последовательность:");
+        for (int element : array) {
+            System.out.printf("%3d ", element);
         }
     }
 }
