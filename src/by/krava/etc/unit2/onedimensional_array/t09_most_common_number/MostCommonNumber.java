@@ -1,4 +1,4 @@
-package by.krava.etc.unit2.onedimensional_array.t9_most_common_number;
+package by.krava.etc.unit2.onedimensional_array.t09_most_common_number;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package by.krava.etc.unit2.onedimensional_array.t7_maximum;
+package by.krava.etc.unit2.onedimensional_array.t07_maximum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

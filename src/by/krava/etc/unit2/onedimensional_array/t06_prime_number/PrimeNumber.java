@@ -1,4 +1,4 @@
-package by.krava.etc.unit2.onedimensional_array.t6_prime_number;
+package by.krava.etc.unit2.onedimensional_array.t06_prime_number;
 
 import java.util.Scanner;
 

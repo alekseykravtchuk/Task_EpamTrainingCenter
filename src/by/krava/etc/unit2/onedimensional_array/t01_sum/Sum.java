@@ -1,4 +1,4 @@
-package by.krava.etc.unit2.onedimensional_array.t1_sum;
+package by.krava.etc.unit2.onedimensional_array.t01_sum;
 
 /*
  *  В массив A [N] занесены натуральные числа. Найти сумму тех элементов, которые кратны данному К
