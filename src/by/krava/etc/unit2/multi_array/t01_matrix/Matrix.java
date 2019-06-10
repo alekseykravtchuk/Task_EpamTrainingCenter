@@ -1,4 +1,4 @@
-package by.krava.etc.unit2.multi_array.t1_matrix;
+package by.krava.etc.unit2.multi_array.t01_matrix;
 
 import java.io.BufferedReader;
 import java.io.IOException;
