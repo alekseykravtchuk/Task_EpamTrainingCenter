@@ -1,4 +1,4 @@
-package by.krava.etc.unit2.onedimensional_array.t4_replacement;
+package by.krava.etc.unit2.onedimensional_array.t04_replacement;
 
 import java.util.Scanner;
 

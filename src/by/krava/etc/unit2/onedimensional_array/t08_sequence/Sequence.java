@@ -1,4 +1,4 @@
-package by.krava.etc.unit2.onedimensional_array.t8_sequence;
+package by.krava.etc.unit2.onedimensional_array.t08_sequence;
 
 import java.io.BufferedReader;
 import java.io.IOException;

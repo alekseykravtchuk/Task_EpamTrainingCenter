@@ -1,4 +1,4 @@
-package by.krava.etc.unit2.onedimensional_array.t3_counting;
+package by.krava.etc.unit2.onedimensional_array.t03_counting;
 
 /*
  *  Дан массив действительных чисел, размерность которого N.
