@@ -316,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MostCommonNumber">
+  <component name="RunManager" selected="Application.Sum">
     <configuration name="Maximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.onedimensional_array.t7_maximum.Maximum" />
       <module name="Task_EpamTrainingCenter" />
@@ -356,19 +356,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.onedimensional_array.t5_print.Print" />
-      <module name="Task_EpamTrainingCenter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.onedimensional_array.t5_print.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.onedimensional_array.t8_sequence.Sequence" />
       <module name="Task_EpamTrainingCenter" />
@@ -382,13 +369,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.onedimensional_array.t1_sum.Sum" />
+      <module name="Task_EpamTrainingCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.krava.etc.unit2.onedimensional_array.t1_sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum" />
         <item itemvalue="Application.MostCommonNumber" />
         <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.Maximum" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.Print" />
       </list>
     </recent_temporary>
   </component>
