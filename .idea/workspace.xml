@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t1_matrix/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t2_square_matrix/SquareMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t02_square_matrix/SquareMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t03_print_line/PrintLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/multi_array/t1_matrix/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/multi_array/t2_square_matrix/SquareMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t1_sum/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t2_replacement/Replacement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t3_counting/Counting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t4_replacement/Replacement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t5_print/Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t6_prime_number/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t7_maximum/Maximum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t8_sequence/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t9_most_common_number/MostCommonNumber.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t01_sum/Sum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -39,7 +50,19 @@
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t10_compress_array/CompressArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="28" column="48" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="28" selection-end-column="48" />
+              <caret line="28" column="48" selection-start-line="26" selection-start-column="12" selection-end-line="28" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="31" column="9" selection-start-line="14" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,10 +71,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t03_print_line/PrintLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="27" selection-end-column="38" />
+            <state relative-caret-position="94">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t02_square_matrix/SquareMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="56" lean-forward="true" selection-start-column="21" selection-end-column="56" />
+              <caret column="56" selection-start-column="21" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,6 +154,7 @@
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t1_matrix/Matrix.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t2_square_matrix/SquareMatrix.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t03_print_line/PrintLine.java" />
       </list>
     </option>
   </component>
@@ -221,7 +245,7 @@
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t02_square_matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t03_print_line" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -257,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SquareMatrix">
+  <component name="RunManager" selected="Application.PrintLine">
     <configuration name="CompressArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.onedimensional_array.t10_compress_array.CompressArray" />
       <module name="Task_EpamTrainingCenter" />
@@ -284,12 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MostCommonNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.onedimensional_array.t09_most_common_number.MostCommonNumber" />
+    <configuration name="PrintLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t03_print_line.PrintLine" />
       <module name="Task_EpamTrainingCenter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.onedimensional_array.t09_most_common_number.*" />
+          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t03_print_line.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintLine" />
         <item itemvalue="Application.SquareMatrix" />
         <item itemvalue="Application.Matrix" />
         <item itemvalue="Application.CompressArray" />
         <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.MostCommonNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -512,13 +536,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560186761769</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="update folder">
+      <created>1560187103390</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1560187103390</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -528,7 +560,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.20611916" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.7165862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -870,7 +902,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t01_sum/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -884,7 +916,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t10_compress_array/CompressArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="28" selection-end-column="48" />
+          <caret line="28" column="48" selection-start-line="26" selection-start-column="12" selection-end-line="28" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -894,7 +926,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t02_square_matrix/SquareMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="56" lean-forward="true" selection-start-column="21" selection-end-column="56" />
+          <caret column="56" selection-start-column="21" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -903,8 +935,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="27" selection-end-column="38" />
+        <state relative-caret-position="394">
+          <caret line="31" column="9" selection-start-line="14" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t03_print_line/PrintLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
