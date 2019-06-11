@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/PatternMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/RuleMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t01_sum/Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t02_replacement/Replacement.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +86,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/PatternMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+            <state relative-caret-position="370">
+              <caret line="46" selection-start-line="2" selection-end-line="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/RuleMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t04_pattern_matrix1/PatternMatrix.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/PatternMatrix.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/PatternMatrix.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/RuleMatrix.java" />
       </list>
     </option>
   </component>
@@ -259,7 +266,7 @@
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t05_pattern_matrix2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t06_pattern_matrix3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -270,7 +277,7 @@
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t06_pattern_matrix3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t07_rule_matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -309,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PatternMatrix (2)">
+  <component name="RunManager" selected="Application.RuleMatrix">
     <configuration name="PatternMatrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t05_pattern_matrix2.PatternMatrix" />
       <module name="Task_EpamTrainingCenter" />
@@ -362,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t02_square_matrix.SquareMatrix" />
+    <configuration name="RuleMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t07_rule_matrix.RuleMatrix" />
       <module name="Task_EpamTrainingCenter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t02_square_matrix.*" />
+          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t07_rule_matrix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuleMatrix" />
         <item itemvalue="Application.PatternMatrix (2)" />
         <item itemvalue="Application.PatternMatrix (1)" />
         <item itemvalue="Application.PatternMatrix" />
         <item itemvalue="Application.PrintLine" />
-        <item itemvalue="Application.SquareMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -592,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560195078253</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="unit2.multi_array.t06_pattern_matrix3">
+      <created>1560269316911</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1560269316911</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -609,7 +623,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.2753623" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.17552336" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -687,7 +701,8 @@
     <MESSAGE value="completed unit2.multi_array.t03_print_line" />
     <MESSAGE value="unit2.multi_array.t04_pattern_matrix1" />
     <MESSAGE value="unit2.multi_array.t05_pattern_matrix2" />
-    <option name="LAST_COMMIT_MESSAGE" value="unit2.multi_array.t05_pattern_matrix2" />
+    <MESSAGE value="unit2.multi_array.t06_pattern_matrix3" />
+    <option name="LAST_COMMIT_MESSAGE" value="unit2.multi_array.t06_pattern_matrix3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../1_Basics_of_software_code_development/task/task.iml" />
@@ -1027,8 +1042,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/PatternMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        <state relative-caret-position="370">
+          <caret line="46" selection-start-line="2" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="4301" column="18" selection-start-line="4301" selection-start-column="18" selection-end-line="4301" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/RuleMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
