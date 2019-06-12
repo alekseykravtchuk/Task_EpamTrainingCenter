@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t11_print_matrix/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,20 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t11_print_matrix/PrintMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            <state>
+              <caret column="55" selection-start-column="21" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t02_square_matrix/SquareMatrix.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="391">
+              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,10 +51,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t03_print_line/PrintLine.java">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="437">
+              <caret line="45" selection-start-line="2" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t08_swab/Swap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,18 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/PatternMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,10 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t4_brick/Brick.java" />
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t3_pointonline/PointsOnLine.java" />
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t2_maxmin/Maxmin.java" />
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t1_triangle/Triangle.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t5_function/Function.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/cycles/t1_sum/Sum.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/cycles/t2_function/Function.java" />
@@ -201,6 +184,10 @@
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t10_main_diagonal/MainDiagonal.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t11_print_matrix/PrintMatrix.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/RowSorting.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRowDescending.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRowAscending.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRow.java" />
       </list>
     </option>
   </component>
@@ -291,226 +278,7 @@
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t02_square_matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t03_print_line" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t04_pattern_matrix1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t05_pattern_matrix2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t06_pattern_matrix3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t07_rule_matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t08_swab" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t09_maximum_sum" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t10_main_diagonal" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t11_print_matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t01_sum" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t02_replacement" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t03_counting" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t04_replacement" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t05_print" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t06_prime_number" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t07_maximum" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t08_sequence" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t09_most_common_number" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="onedimensional_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t10_compress_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t12_row_sorting" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -549,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintMatrix">
+  <component name="RunManager">
     <configuration name="MainDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t10_main_diagonal.MainDiagonal" />
       <module name="Task_EpamTrainingCenter" />
@@ -589,12 +357,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuleMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t07_rule_matrix.RuleMatrix" />
+    <configuration name="SortingRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t12_row_sorting.SortingRow" />
       <module name="Task_EpamTrainingCenter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t07_rule_matrix.*" />
+          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t12_row_sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -617,11 +385,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortingRowAscending" />
         <item itemvalue="Application.PrintMatrix" />
         <item itemvalue="Application.MainDiagonal" />
         <item itemvalue="Application.MaximumSum" />
         <item itemvalue="Application.Swap" />
-        <item itemvalue="Application.RuleMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -867,14 +635,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560351007647</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="completed unit2.multi_array.t11_print_matrix">
+      <created>1560353050897</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1560353050897</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -884,7 +659,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.14009662" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.06763285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -893,6 +668,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.22866344" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
+      <window_info anchor="right" id="Module Dependencies" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -967,23 +743,10 @@
     <MESSAGE value="completed unit2.multi_array.t08_swab" />
     <MESSAGE value="completed unit2.multi_array.t09_maximum_sum" />
     <MESSAGE value="completed unit2.multi_array.t10_main_diagonal" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed unit2.multi_array.t10_main_diagonal" />
+    <MESSAGE value="completed unit2.multi_array.t11_print_matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed unit2.multi_array.t11_print_matrix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/cycle/t3_sumofsquare/SumOfSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/cycle/t4_productofsquare/ProductOfSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/cycle/t5_sequence/Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1254,16 +1017,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t02_square_matrix/SquareMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -1327,7 +1080,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t08_swab/Swap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1356,8 +1109,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t11_print_matrix/PrintMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="21" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="45" selection-start-line="2" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRowDescending.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
