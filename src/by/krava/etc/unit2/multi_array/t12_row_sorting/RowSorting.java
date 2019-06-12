@@ -26,7 +26,7 @@ public class RowSorting {
         printMatrix(matrix);
     }
 
-    public static int [][] randomMatrix() throws IOException{
+    private static int [][] randomMatrix() throws IOException{
         BufferedReader rd = new BufferedReader(new InputStreamReader(System.in));
         int m, n; //размеры матрицы
 
@@ -45,7 +45,7 @@ public class RowSorting {
         return matrix;
     }
 
-    public static void sortRowUp (int [][] matrix){ //сортировка строк матрицы по возрастанию
+    private static void sortRowUp (int [][] matrix){ //сортировка строк матрицы по возрастанию
         for (int i = 0; i < matrix.length; i++) {
             isSorted = false;
             while (!isSorted) {
@@ -62,7 +62,7 @@ public class RowSorting {
         }
     }
 
-    public static void sortRowDown (int [][] matrix) {  //сортировка строк матрицы по убыванию
+    private static void sortRowDown (int [][] matrix) {  //сортировка строк матрицы по убыванию
         for (int i = 0; i < matrix.length; i++) {
             isSorted = false;
             while (!isSorted) {
@@ -79,7 +79,7 @@ public class RowSorting {
         }
     }
 
-    public static void printMatrix (int [][] matrix) {  //вывод матрицы
+    private static void printMatrix (int [][] matrix) {  //вывод матрицы
         for (int[] array : matrix) {
             for (int element : array) {
                 System.out.printf("%3d ", element);
