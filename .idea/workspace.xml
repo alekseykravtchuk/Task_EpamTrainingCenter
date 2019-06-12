@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t13_column_sorting/ColumnSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/RowSorting.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +39,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRow.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/RowSorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="410">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t13_column_sorting/ColumnSorting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="64" column="57" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,8 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t5_function/Function.java" />
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/cycles/t1_sum/Sum.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/cycles/t2_function/Function.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/cycles/t3_sumofsquares/SumOfSquares.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/cycles/t3_sumofsquare/SumOfSquare.java" />
@@ -188,6 +199,8 @@
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRowDescending.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRowAscending.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRow.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t13_column_sorting/SortingColumn.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t13_column_sorting/ColumnSorting.java" />
       </list>
     </option>
   </component>
@@ -267,7 +280,7 @@
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t01_matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t12_row_sorting" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -278,7 +291,7 @@
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t12_row_sorting" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t13_column_sorting" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -317,7 +330,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ColumnSorting">
+    <configuration name="ColumnSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t13_column_sorting.ColumnSorting" />
+      <module name="Task_EpamTrainingCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t13_column_sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t10_main_diagonal.MainDiagonal" />
       <module name="Task_EpamTrainingCenter" />
@@ -357,8 +383,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t12_row_sorting.SortingRow" />
+    <configuration name="RowSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t12_row_sorting.RowSorting" />
       <module name="Task_EpamTrainingCenter" />
       <extension name="coverage">
         <pattern>
@@ -370,26 +396,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t08_swab.Swap" />
-      <module name="Task_EpamTrainingCenter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t08_swab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortingRowAscending" />
+        <item itemvalue="Application.ColumnSorting" />
+        <item itemvalue="Application.RowSorting" />
         <item itemvalue="Application.PrintMatrix" />
         <item itemvalue="Application.MainDiagonal" />
         <item itemvalue="Application.MaximumSum" />
-        <item itemvalue="Application.Swap" />
       </list>
     </recent_temporary>
   </component>
@@ -642,7 +655,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560353050897</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="completed unit2.multi_array.t12_row_sorting">
+      <created>1560363438865</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1560363438865</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -659,7 +679,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.06763285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.45571658" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -744,16 +764,10 @@
     <MESSAGE value="completed unit2.multi_array.t09_maximum_sum" />
     <MESSAGE value="completed unit2.multi_array.t10_main_diagonal" />
     <MESSAGE value="completed unit2.multi_array.t11_print_matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed unit2.multi_array.t11_print_matrix" />
+    <MESSAGE value="completed unit2.multi_array.t12_row_sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed unit2.multi_array.t12_row_sorting" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/cycle/t5_sequence/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/cycle/t7_commondivision/CommonDivision.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1134,10 +1148,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/SortingRow.java">
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t12_row_sorting/RowSorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="410">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t13_column_sorting/ColumnSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="64" column="57" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
  *  Отсортировать строки матрицы по возрастанию и убыванию значений элементов
  */
 
-public class SortingRow {
+public class RowSorting {
     private static int [][] matrix;
     private static int buf;
     private static boolean isSorted;
@@ -87,5 +87,4 @@ public class SortingRow {
             System.out.println();
         }
     }
-
 }
