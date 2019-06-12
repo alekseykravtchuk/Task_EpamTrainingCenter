@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -116,8 +115,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="46" column="34" lean-forward="true" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+            <state relative-caret-position="359">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -272,50 +271,6 @@
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t03_print_line" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t07_rule_matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t08_swab" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t09_maximum_sum" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -658,7 +613,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560279212245</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="completed unit2.multi_array.t09_maximum_sum">
+      <created>1560280212066</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1560280212066</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -675,7 +637,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.096618354" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.18035427" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -756,7 +718,8 @@
     <MESSAGE value="unit2.multi_array.t06_pattern_matrix3" />
     <MESSAGE value="completed unit2.multi_array.t07_rule_matrix" />
     <MESSAGE value="completed unit2.multi_array.t08_swab" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed unit2.multi_array.t08_swab" />
+    <MESSAGE value="completed unit2.multi_array.t09_maximum_sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed unit2.multi_array.t09_maximum_sum" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../1_Basics_of_software_code_development/task/task.iml" />
@@ -1133,8 +1096,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="46" column="34" lean-forward="true" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        <state relative-caret-position="359">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
