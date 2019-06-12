@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t14_random_matrix/RandomMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t14_random_matrix/RandomMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t14_random_matrix/RandomMatrix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t14_random_matrix/RandomMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -567,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560364484651</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="complete unit2.multi_array.t14_random_matrix">
+      <created>1560365907488</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1560365907488</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -584,7 +591,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.568438" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.048309177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -645,7 +652,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DONE task unit2.onedimensionalarray.t4_replacement" />
     <MESSAGE value="DONE task unit2.onedimensionalarray.t5_print" />
     <MESSAGE value="completed task unit2.onedimensionalarray.t6_prime_number" />
     <MESSAGE value="upload README.md" />
@@ -670,7 +676,8 @@
     <MESSAGE value="completed unit2.multi_array.t12_row_sorting" />
     <MESSAGE value="completed unit2.multi_array.t13_column_sorting" />
     <MESSAGE value="update unit2.multi_array.t13_column_sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="update unit2.multi_array.t13_column_sorting" />
+    <MESSAGE value="complete unit2.multi_array.t14_random_matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete unit2.multi_array.t14_random_matrix" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/cycle/t8_commonnumbers/CommonNumbers.java">
@@ -1068,8 +1075,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t14_random_matrix/RandomMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        <state relative-caret-position="306">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
