@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t10_main_diagonal/MainDiagonal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t10_compress_array/CompressArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="28" column="48" selection-start-line="26" selection-start-column="12" selection-end-line="28" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/PatternMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="68">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -91,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/RuleMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="42" column="9" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="427">
+              <caret line="47" selection-start-line="2" selection-end-line="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,8 +92,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t08_swab/Swap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="57" selection-start-line="2" selection-end-line="57" />
+            <state relative-caret-position="153">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,10 +114,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.java">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t10_main_diagonal/MainDiagonal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="325">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t02_square_matrix/SquareMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
+              <caret line="30" column="9" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/t1_sum/Sum.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t3_pointsonline/PointsOnLine.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t4_brick/Brick.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t3_pointonline/PointsOnLine.java" />
@@ -202,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/RuleMatrix.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t08_swab/Swap.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t10_main_diagonal/MainDiagonal.java" />
       </list>
     </option>
   </component>
@@ -272,6 +273,72 @@
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t02_square_matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t05_pattern_matrix2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t07_rule_matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t08_swab" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t09_maximum_sum" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t10_main_diagonal" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -309,13 +376,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaximumSum">
-    <configuration name="MaximumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t09_maximum_sum.MaximumSum" />
+  <component name="RunManager" selected="Application.MainDiagonal">
+    <configuration name="MainDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t10_main_diagonal.MainDiagonal" />
       <module name="Task_EpamTrainingCenter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t09_maximum_sum.*" />
+          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t10_main_diagonal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,12 +390,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternMatrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t05_pattern_matrix2.PatternMatrix" />
+    <configuration name="MaximumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t09_maximum_sum.MaximumSum" />
       <module name="Task_EpamTrainingCenter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t05_pattern_matrix2.*" />
+          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t09_maximum_sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,11 +444,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainDiagonal" />
         <item itemvalue="Application.MaximumSum" />
         <item itemvalue="Application.Swap" />
         <item itemvalue="Application.RuleMatrix" />
         <item itemvalue="Application.PatternMatrix (2)" />
-        <item itemvalue="Application.PatternMatrix (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -722,7 +789,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="completed unit2.multi_array.t09_maximum_sum" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../1_Basics_of_software_code_development/task/task.iml" />
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t2_maxmin/Maxmin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1017,30 +1083,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t02_square_matrix/SquareMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="30" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t04_pattern_matrix1/PatternMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="46" selection-start-line="1" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/PatternMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1074,10 +1120,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/RuleMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="42" column="9" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="42" selection-end-column="9" />
+        <state relative-caret-position="153">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1086,18 +1132,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t08_swab/Swap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="57" selection-start-line="2" selection-end-line="57" />
+        <state relative-caret-position="153">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t09_maximum_sum/MaximumSum.java">
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/RuleMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="427">
+          <caret line="47" selection-start-line="2" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/PatternMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t02_square_matrix/SquareMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t10_main_diagonal/MainDiagonal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
