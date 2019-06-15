@@ -9,14 +9,12 @@ public class RandomMatrix {
 
     private static int [][] matrix;
 
-
     public static void main(String[] args) {
         matrix = createRandomMatrix();
         fillMatrix(matrix);
         System.out.println("Полученная матрица: ");
         printMatrix(matrix);
     }
-
 
     private static int [][] createRandomMatrix() {
         int m, n; //размеры матрицы
@@ -26,7 +24,6 @@ public class RandomMatrix {
 
         return matrix;
     }
-
 
     private static void fillMatrix (int [][] matrix) {
         int count;
@@ -42,7 +39,6 @@ public class RandomMatrix {
             }
         }
     }
-
 
     private static void printMatrix (int [][] matrix) {  //вывод матрицы
         for (int[] array : matrix) {

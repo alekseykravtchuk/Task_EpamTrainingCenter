@@ -11,23 +11,23 @@ public class Replacement {
 
     public static void main(String[] args) {
         int n, min, max;
-        int [] mas;
+        int [] array;
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Введите значение \"n\":");
         n = Integer.parseInt(scanner.nextLine());
-        mas = new int[n];
+        array = new int[n];
 
         //заполнение массива и его вывод
         System.out.print("\nДанные числа: \n");
-        for (int i = 0; i < mas.length; i++) {
-            mas[i] = (int) (Math.random() * 100);
-            System.out.printf("[%d] ", mas[i]);
+        for (int i = 0; i < array.length; i++) {
+            array[i] = (int) (Math.random() * 100);
+            System.out.printf("[%d] ", array[i]);
         }
-        max = min = mas[0];
+        max = min = array[0];
 
         //поиск минимального и максимального значений
-        for (int element : mas) {
+        for (int element : array) {
             if (element > max) {
                 max = element;
             }
@@ -37,17 +37,17 @@ public class Replacement {
         }
 
         //меняем местами
-        for (int i = 0; i < mas.length; i++) {
-            if (mas[i] == min) {
-                mas[i] = max;
-            } else if (mas[i] == max) {
-                mas[i] = min;
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] == min) {
+                array[i] = max;
+            } else if (array[i] == max) {
+                array[i] = min;
             }
         }
 
         //вывод итового массива
         System.out.printf("\nНовая последовательность: %n");
-        for (int element : mas) {
+        for (int element : array) {
             System.out.printf("[%d] ", element);
         }
     }
