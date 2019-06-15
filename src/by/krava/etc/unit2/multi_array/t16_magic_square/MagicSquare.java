@@ -19,6 +19,11 @@ class MagicSquare {
         System.out.println("Задайте порядок магического квадрата: ");
         n = Integer.parseInt(reader.readLine());
 
+        while (n < 3) {
+            System.out.printf("Магический квадрат порядка %d не существует.%n", n);
+            System.out.println("Задайте другой порядок магического квадрата: ");
+            n = Integer.parseInt(reader.readLine());
+        }
         if ((n - 1) % 2 == 0) {
             square = oddMagicSquare(n);
         } else if (n % 4 == 0) {
@@ -26,7 +31,7 @@ class MagicSquare {
         } else {
             square = evenOddMagicSquare(n);
         }
-
+        System.out.println("\nПолученный магический квадрат:");
         printMatrix(square);
     }
 
