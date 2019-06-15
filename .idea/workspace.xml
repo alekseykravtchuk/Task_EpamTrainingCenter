@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t16_magic_square/MagicSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/multi_array/t14_random_matrix/RandomMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/multi_array/t14_random_matrix/RandomMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t04_replacement/Replacement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t04_replacement/Replacement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t04_replacement/Replacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t04_replacement/Replacement.java" afterDir="false" />
+    <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="update files">
+      <change beforePath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t16_magic_square/MagicSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t16_magic_square/MagicSquare.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t16_magic_square/MagicSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+            <state relative-caret-position="204">
+              <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -637,7 +633,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560367510650</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="complete unit2.multi_array.t16_magic_square">
+      <created>1560591414668</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1560591414668</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update files">
+      <created>1560591437678</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1560591437678</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -654,7 +664,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.09983897" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.28502417" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33172303" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -716,8 +726,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="completed task unit2.onedimensionalarray.t6_prime_number" />
-    <MESSAGE value="upload README.md" />
     <MESSAGE value="completed task unit2.onedimensionalarray.t7_maximum" />
     <MESSAGE value="completed task unit2.onedimensionalarray.t8_sequence" />
     <MESSAGE value="completed task unit2.onedimensionalarray.t9_most_common_number" />
@@ -741,7 +749,9 @@
     <MESSAGE value="update unit2.multi_array.t13_column_sorting" />
     <MESSAGE value="complete unit2.multi_array.t14_random_matrix" />
     <MESSAGE value="complete unit2.multi_array.t15_replace_with_max" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete unit2.multi_array.t15_replace_with_max" />
+    <MESSAGE value="complete unit2.multi_array.t16_magic_square" />
+    <MESSAGE value="update files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2_Algorithmization$MagicSquare.ic" NAME="MagicSquare Coverage Results" MODIFIED="1560523443531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -1081,8 +1091,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t16_magic_square/MagicSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+        <state relative-caret-position="204">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
