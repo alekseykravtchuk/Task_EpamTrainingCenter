@@ -34,6 +34,15 @@ public class CompressArray {
             array[i] = 0;
         }
 
+        //смещаем ненулевые элементы вправо
+        for (int i = 1, j = 1; i < array.length; i++, j++) {
+            if (i + j < array.length) {
+                array[i] = array[i + j];
+            } else {
+                array[i] = 0;
+            }
+        }
+
         System.out.println("\n\nНовая последовательность:");
         for (int element : array) {
             System.out.printf("%3d ", element);
