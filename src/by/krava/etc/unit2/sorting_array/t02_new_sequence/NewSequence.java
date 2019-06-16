@@ -14,6 +14,12 @@ public class NewSequence {
         int [] array2 = {11, 15, 16, 21, 22};
 
         newArray = joinArray(array1, array2);
+
+        System.out.println("Первая последовательность:");
+        printArray(array1);
+        System.out.println("\n\nВторая последовательность:");
+        printArray(array2);
+        System.out.println("\n\nНовая последовательность:");
         printArray(newArray);
     }
 
