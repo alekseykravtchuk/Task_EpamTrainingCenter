@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t03_sort_by_selection/SortBySelection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t10_compress_array/CompressArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task_EpamTrainingCenter/by/krava/etc/unit2/onedimensional_array/t10_compress_array/CompressArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t02_new_sequence/NewSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t02_new_sequence/NewSequence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,18 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t15_replace_with_max/ReplaceWithMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="35" column="51" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t04_pattern_matrix1/PatternMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,17 +53,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t01_join_array/JoinArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t02_new_sequence/NewSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t02_new_sequence/NewSequence.java">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t03_sort_by_selection/SortBySelection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+            <state>
+              <caret column="62" lean-forward="true" selection-start-column="21" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -135,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/cycle/t7_commondivision/CommonDivision.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/cycle/t8_commonnumbers/CommonNumbers.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/line/t1_function/Function.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/line/t2_expression1/Expression.java" />
@@ -186,6 +181,7 @@
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t01_join_array/JoinArray.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t10_compress_array/CompressArray.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t02_new_sequence/NewSequence.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t03_sort_by_selection/SortBySelection.java" />
       </list>
     </option>
   </component>
@@ -300,6 +296,17 @@
               <item name="sorting_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="t02_new_sequence" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="sorting_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t03_sort_by_selection" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -336,7 +343,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NewSequence">
+  <component name="RunManager" selected="Application.JoinArray">
     <configuration name="CompressArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.onedimensional_array.t10_compress_array.CompressArray" />
       <module name="Task_EpamTrainingCenter" />
@@ -389,12 +396,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t16_magic_square.Test" />
+    <configuration name="SortBySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.sorting_array.t03_sort_by_selection.SortBySelection" />
       <module name="Task_EpamTrainingCenter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t16_magic_square.*" />
+          <option name="PATTERN" value="by.krava.etc.unit2.sorting_array.t03_sort_by_selection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,11 +411,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JoinArray" />
+        <item itemvalue="Application.SortBySelection" />
         <item itemvalue="Application.NewSequence" />
         <item itemvalue="Application.CompressArray" />
-        <item itemvalue="Application.JoinArray" />
         <item itemvalue="Application.MagicSquare" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -745,7 +752,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560692657070</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="update unit2.sorting_array.t02_new_sequence;">
+      <created>1560692961807</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1560692961807</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TodoView">
@@ -761,7 +775,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -771,8 +785,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.20611916" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33172303" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.136876" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45249596" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
@@ -833,7 +847,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
     <MESSAGE value="complеted unit2.onedimensional_array.t10_compress_array" />
     <MESSAGE value="complеted unit2.multi_array.t1_matrix" />
     <MESSAGE value="complеted unit2.multi_array.t1_matrix update" />
@@ -858,7 +871,8 @@
     <MESSAGE value="completed unit2.sorting_array.t01_join_array;" />
     <MESSAGE value="completed unit2.sorting_array.t02_new_sequence" />
     <MESSAGE value="update unit2.onedimensional_array.t10_compress_array" />
-    <option name="LAST_COMMIT_MESSAGE" value="update unit2.onedimensional_array.t10_compress_array" />
+    <MESSAGE value="update unit2.sorting_array.t02_new_sequence;" />
+    <option name="LAST_COMMIT_MESSAGE" value="update unit2.sorting_array.t02_new_sequence;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2_Algorithmization$MagicSquare.ic" NAME="MagicSquare Coverage Results" MODIFIED="1560523443531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -866,13 +880,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/line/t3_expression2/Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/line/t4_replacement/Replacement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1181,13 +1188,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t01_join_array/JoinArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t07_maximum/Maximum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1205,10 +1205,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t01_join_array/JoinArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t02_new_sequence/NewSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        <state relative-caret-position="290">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t03_sort_by_selection/SortBySelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" lean-forward="true" selection-start-column="21" selection-end-column="62" />
         </state>
       </provider>
     </entry>
