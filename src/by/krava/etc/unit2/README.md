@@ -5,3 +5,6 @@ https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/k
 
 multi_array - Задачи. Массивы массивов
 https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit2/multi_array
+
+sorting_array - Одномерные массивы. Сортировки
+https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit2/sorting_array
