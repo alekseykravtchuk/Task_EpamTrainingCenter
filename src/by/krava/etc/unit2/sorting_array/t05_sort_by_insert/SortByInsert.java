@@ -16,7 +16,7 @@ public class SortByInsert {
 
     public static void main(String[] args) {
         int [] array = {2, 13, 3, 52, 22, 31, 32, 34, 14, 6, 21, 77, 92, 63, 42,
-                32, 15, 18, 82, 44};
+                32, 15, 18, 82, 1};
 
         sortByInsert(array);
         printArray(array);
@@ -45,7 +45,7 @@ public class SortByInsert {
                 return j;
             } else if (array[j] < element) {
                 firstIndex = j + 1;
-            } else if (array[j] > element && !(array[j - 1] < element)) {
+            } else if (array[j] > element && j != 0 && !(array[j - 1] < element)) {
                 lastIndex = j - 1;
             } else {
                 break;
