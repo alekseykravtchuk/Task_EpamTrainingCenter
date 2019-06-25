@@ -17,11 +17,15 @@ public class HexagonArea {
         BufferedReader rd = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Введиде длину стороны шестиугольника: ");
         side = Integer.parseInt(rd.readLine());
-        hexagonArea = calculateAreaOfTriangle(side) * 6;
+        hexagonArea = calculateAreaOfHexagon(side);
         System.out.printf("Площадь шестиугольника со стороной %d равна %f", side, hexagonArea);
     }
 
     private static double calculateAreaOfTriangle (double side) {
         return Math.sqrt(3) * side * side / 4;
+    }
+
+    private static double calculateAreaOfHexagon (double side) {
+        return calculateAreaOfTriangle(side) * 6;
     }
 }
