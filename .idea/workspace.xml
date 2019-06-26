@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t03_hexagon_area/HexagonArea.java" afterDir="false" />
+    <list default="true" id="56d6e428-7276-4a14-a000-f7aab923218e" name="Default Changelist" comment="done unit2.decomposition.t05_second_number">
+      <change afterPath="$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t06_mutually_simple/MutuallySimple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,49 +18,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t05_sort_by_insert/SortByInsert.java">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t04_distance_between_point/DistanceBetweenPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="52" column="9" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="52" selection-end-column="9" />
+            <state>
+              <caret column="67" selection-start-column="21" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t06_shell_sort/ShellSort.java">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t05_second_number/SecondNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="187">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t07_insert_point/InsertPoint.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t06_mutually_simple/MutuallySimple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t02_new_sequence/NewSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t08_common_denominator/CommonDenominator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-119">
-              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="340">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
-                <element signature="e#2044#2045#0" expanded="true" />
-                <element signature="e#2109#2110#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,12 +51,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t01_gcd_and_lcm/GcdAndLcm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="50" selection-start-line="2" selection-end-line="50" />
+            <state relative-caret-position="-64">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1293#1294#0" expanded="true" />
-                <element signature="e#1326#1327#0" expanded="true" />
+                <element signature="e#1347#1348#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t02_gcd_for_four/GcdForFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+            <state relative-caret-position="494">
+              <caret line="44" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,34 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t03_hexagon_area/HexagonArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/sorting_array/t03_sort_by_selection/SortBySelection.java">
+        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t3_pointonline/PointsOnLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-93">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensional_array/t08_sequence/Sequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-544">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -139,9 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t6_prime_number/PrimeNumber.java" />
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t5_print/Print.java" />
-        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t4_replacement/Replacement.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t3_counting/Counting.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit1/README.md" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t7_maximum/Maximum.java" />
@@ -190,6 +146,9 @@
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t02_gcd_for_four/GcdForFour.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t03_hexagon_area/HexaArea.java" />
         <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t03_hexagon_area/HexagonArea.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t04_distance_between_point/DistanceBetweenPoint.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t05_second_number/SecondNumber.java" />
+        <option value="$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t06_mutually_simple/MutuallySimple.java" />
       </list>
     </option>
   </component>
@@ -268,6 +227,17 @@
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="decomposition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t01_gcd_and_lcm" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Task_EpamTrainingCenter" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="decomposition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="t02_gcd_for_four" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -279,7 +249,7 @@
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="decomposition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="t03_hexagon_area" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t05_second_number" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="2_Algorithmization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -289,7 +259,8 @@
               <item name="krava" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="etc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="unit2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="multi_array" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="decomposition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="t06_mutually_simple" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -329,39 +300,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HexagonArea">
-    <configuration name="CommonDenominator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.sorting_array.t08_common_denominator.CommonDenominator" />
+  <component name="RunManager" selected="Application.MutuallySimple">
+    <configuration name="DistanceBetweenPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.decomposition.t04_distance_between_point.DistanceBetweenPoint" />
       <module name="Task_EpamTrainingCenter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.sorting_array.t08_common_denominator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GcdAndLcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.decomposition.t01_gcd_and_lcm.GcdAndLcm" />
-      <module name="Task_EpamTrainingCenter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.decomposition.t01_gcd_and_lcm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GcdForFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.decomposition.t02_gcd_for_four.GcdForFour" />
-      <module name="Task_EpamTrainingCenter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.decomposition.t02_gcd_for_four.*" />
+          <option name="PATTERN" value="by.krava.etc.unit2.decomposition.t04_distance_between_point.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,12 +327,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.sorting_array.t07_insert_point.InsertPoint" />
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.multi_array.t01_matrix.Matrix" />
       <module name="Task_EpamTrainingCenter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.krava.etc.unit2.sorting_array.t07_insert_point.*" />
+          <option name="PATTERN" value="by.krava.etc.unit2.multi_array.t01_matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutuallySimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.decomposition.t06_mutually_simple.MutuallySimple" />
+      <module name="Task_EpamTrainingCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.krava.etc.unit2.decomposition.t06_mutually_simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.krava.etc.unit2.decomposition.t05_second_number.SecondNumber" />
+      <module name="Task_EpamTrainingCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.krava.etc.unit2.decomposition.t05_second_number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,11 +368,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MutuallySimple" />
+        <item itemvalue="Application.SecondNumber" />
+        <item itemvalue="Application.DistanceBetweenPoint" />
+        <item itemvalue="Application.Matrix" />
         <item itemvalue="Application.HexagonArea" />
-        <item itemvalue="Application.GcdForFour" />
-        <item itemvalue="Application.GcdAndLcm" />
-        <item itemvalue="Application.CommonDenominator" />
-        <item itemvalue="Application.InsertPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -415,41 +386,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559762845830</updated>
-    </task>
-    <task id="LOCAL-00008" summary="DONE task unit2.onedimensionalarray.t4_replacement">
-      <created>1560013724533</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1560013724533</updated>
-    </task>
-    <task id="LOCAL-00009" summary="DONE task unit2.onedimensionalarray.t5_print">
-      <created>1560018551961</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1560018551961</updated>
-    </task>
-    <task id="LOCAL-00010" summary="update">
-      <created>1560021406963</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1560021406963</updated>
-    </task>
-    <task id="LOCAL-00011" summary="update">
-      <created>1560021418526</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1560021418526</updated>
-    </task>
-    <task id="LOCAL-00012" summary="update">
-      <created>1560021428639</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1560021428639</updated>
     </task>
     <task id="LOCAL-00013" summary="completed task unit2.onedimensionalarray.t6_prime_number">
       <created>1560021495023</created>
@@ -759,7 +695,42 @@
       <option name="project" value="LOCAL" />
       <updated>1560970634882</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="done unit2.decomposition.t03_hexagon_area">
+      <created>1560973397048</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1560973397048</updated>
+    </task>
+    <task id="LOCAL-00058" summary="done unit2.decomposition.t03_hexagon_area">
+      <created>1561478908349</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1561478908349</updated>
+    </task>
+    <task id="LOCAL-00059" summary="done unit2.decomposition.t04_distance_between_point">
+      <created>1561485733610</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1561485733610</updated>
+    </task>
+    <task id="LOCAL-00060" summary="done unit2.decomposition.t04_distance_between_point">
+      <created>1561485820828</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1561485820828</updated>
+    </task>
+    <task id="LOCAL-00061" summary="done unit2.decomposition.t05_second_number">
+      <created>1561565237663</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1561565237663</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TodoView">
@@ -775,7 +746,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28290468" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23827533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -785,8 +756,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.18518518" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3236715" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.19162641" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18035427" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
@@ -847,9 +818,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="completed unit2.multi_array.t07_rule_matrix" />
-    <MESSAGE value="completed unit2.multi_array.t08_swab" />
-    <MESSAGE value="completed unit2.multi_array.t09_maximum_sum" />
     <MESSAGE value="completed unit2.multi_array.t10_main_diagonal" />
     <MESSAGE value="completed unit2.multi_array.t11_print_matrix" />
     <MESSAGE value="completed unit2.multi_array.t12_row_sorting" />
@@ -872,7 +840,24 @@
     <MESSAGE value="done unit2.sorting_array.t08_common_denominator" />
     <MESSAGE value="done unit2.decomposition.t01_gcd_and_lcm" />
     <MESSAGE value="done unit2.decomposition.t02_gcd_for_four" />
-    <option name="LAST_COMMIT_MESSAGE" value="done unit2.decomposition.t02_gcd_for_four" />
+    <MESSAGE value="done unit2.decomposition.t03_hexagon_area" />
+    <MESSAGE value="done unit2.decomposition.t04_distance_between_point" />
+    <MESSAGE value="done unit2.decomposition.t05_second_number" />
+    <option name="LAST_COMMIT_MESSAGE" value="done unit2.decomposition.t05_second_number" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t05_second_number/SecondNumber.java</url>
+          <line>29</line>
+          <properties class="by.krava.etc.unit2.decomposition.t05_second_number.SecondNumber" method="quickSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2_Algorithmization$MagicSquare.ic" NAME="MagicSquare Coverage Results" MODIFIED="1560523443531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -880,20 +865,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t1_sum/Sum.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t4_replacement/Replacement.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t5_print/Print.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t6_prime_number/PrimeNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t7_maximum/Maximum.java" />
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t8_sequence/Sequence.java" />
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/onedimensionalarray/t9_most_common_number/MostCommonNumber.java" />
@@ -1027,16 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="55" selection-start-column="21" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="45" selection-start-line="2" selection-end-line="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1198,36 +1159,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t03_hexagon_area/HexagonArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/multi_array/t01_matrix/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t1_triangle/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit1/branch/t3_pointonline/PointsOnLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t04_distance_between_point/DistanceBetweenPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" selection-start-column="21" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t05_second_number/SecondNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t01_gcd_and_lcm/GcdAndLcm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="50" selection-start-line="2" selection-end-line="50" />
+        <state relative-caret-position="-64">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1293#1294#0" expanded="true" />
-            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t02_gcd_for_four/GcdForFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        <state relative-caret-position="494">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t03_hexagon_area/HexagonArea.java">
+    <entry file="file://$PROJECT_DIR$/src/by/krava/etc/unit2/decomposition/t06_mutually_simple/MutuallySimple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
           </folding>
         </state>
       </provider>
