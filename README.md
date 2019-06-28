@@ -1,6 +1,6 @@
 # Task_EpamTrainingCenter
 
-- 1. Unit1 - Basics of software code development - [DONE]
+- 1) Unit1 - Basics of software code development - [DONE]
 https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit1
 
 - 2. Unit2 - Algorithmization - [in progress]
