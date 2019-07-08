@@ -6,7 +6,7 @@ https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/k
 - Unit2 - Algorithmization - [DONE]
 https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit2
 
-- Unit3 - Strings and basics of text processing - [PLANNED]
+- Unit3 - Strings and basics of text processing - [IN PROGRESS]
 https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit3
 
 - Unit4 - Programming with classes - [PLANNED]
