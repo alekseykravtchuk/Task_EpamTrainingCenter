@@ -15,7 +15,7 @@ public class LetterCounter {
         int counter = 0;
         for (int i = 0; i < line.length(); i++) {
             char letter = line.charAt(i);
-            if (letter >= 97 && letter <= 122) {
+            if (letter >= 'a' && letter <= 'z') {
                 counter++;
             }
         }
@@ -27,7 +27,7 @@ public class LetterCounter {
         int counter = 0;
         for (int i = 0; i < line.length(); i++) {
             char letter = line.charAt(i);
-            if (letter >= 65 && letter <= 90) {
+            if (letter >= 'A' && letter <= 'Z') {
                 counter++;
             }
         }
