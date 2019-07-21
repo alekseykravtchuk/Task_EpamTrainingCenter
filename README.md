@@ -9,7 +9,8 @@ https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/k
 - Unit3 - Strings and basics of text processing - [DONE]
 https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit3
 
-- Unit4 - Programming with classes - [PLANNED]
+- Unit4 - Programming with classes - [IN PROGRESS]
+https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit4
 
 - Unit5 - Basics of OOP - [PLANNED]
 
