@@ -33,8 +33,9 @@ public class XMLParser {
         Pattern pBody = Pattern.compile(">.+?<");
         Pattern pEmpty = Pattern.compile("<\\w.+?/>");
 
-        String [] lines = xml.split("\n\\s*");
+        String [] lines = xml.split("\n\\s*"); /* разбиваем xml построчно */
 
+        /* проверяем содержимое каждой строки */
         for (String line : lines) {
             Matcher mOpen = pOpen.matcher(line);
             Matcher mClose = pClose.matcher(line);
