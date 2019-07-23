@@ -10,12 +10,12 @@ public class Test2 {
     private int a;
     private int b;
 
-    public Test2(int a, int b) {
+    Test2(int a, int b) {
         this.a = a;
         this.b = b;
     }
 
-    public Test2() {
+    Test2() {
         this.a = 1;
         this.b = 2;
     }
