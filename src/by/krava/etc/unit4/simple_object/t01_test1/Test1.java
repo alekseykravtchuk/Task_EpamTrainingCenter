@@ -1,6 +1,6 @@
 package by.krava.etc.unit4.simple_object.t01_test1;
 
-/*
+/**
  * Создайте класс Test1 c двумя переменными. Добавьте метод вывода на экран и
  * методы изменения этих переменных. Добавьте метод, который находит сумму
  * значений этих переменных, и метод, который находит наибольшее значение
@@ -8,13 +8,8 @@ package by.krava.etc.unit4.simple_object.t01_test1;
  */
 
 public class Test1 {
-    private int a;
-    private int b;
-
-    private Test1 (int a, int b) {
-        this.a = a;
-        this.b = b;
-    }
+    private int a = 1;
+    private int b = 2;
 
     public void printVar() {
         System.out.printf("a = %d, b = %d", a, b);

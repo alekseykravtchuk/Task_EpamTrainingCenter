@@ -2,7 +2,7 @@ package by.krava.etc.unit4.simple_object.t01_test1;
 
 public class CheckTest1 {
     public static void main(String[] args) {
-        Test1 one = new Test1(10, 15);
+        Test1 one = new Test1();
 
         one.printVar();
         System.out.println("\nСуммма: " + one.getSum());
