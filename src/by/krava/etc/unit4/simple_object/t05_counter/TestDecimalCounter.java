@@ -1,6 +1,6 @@
 package by.krava.etc.unit4.simple_object.t05_counter;
 
-public class Test {
+public class TestDecimalCounter {
 
     public static void main(String[] args) {
 
