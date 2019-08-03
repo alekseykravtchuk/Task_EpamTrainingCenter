@@ -10,14 +10,15 @@
 >>![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t04_pattern_matrix1/matrix1.PNG)
  
 5. Сформировать квадратную матрицу порядка n по заданному образцу(n - четное): 
->>![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/matrix2.PNG)
+>![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/matrix2.PNG)
  
 6. Сформировать квадратную матрицу порядка n по заданному образцу(n - четное): 
- >>![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/matrix3.PNG)
+ >![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/matrix3.PNG)
  
 7. Сформировать квадратную матрицу порядка N по правилу:  
-   >>![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/Rule.PNG)
-   и подсчитать количество положительных элементов в ней.
+>![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/Rule.PNG)
+
+и подсчитать количество положительных элементов в ней.
   
 8. В числовой матрице поменять местами два столбца любых столбца, т. е. все элементы одного столбца поставить на соответствующие им позиции другого, а его элементы второго переместить в первый. Номера столбцов вводит пользователь с клавиатуры. 
  
