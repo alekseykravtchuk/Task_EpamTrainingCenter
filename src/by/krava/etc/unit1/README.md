@@ -4,5 +4,4 @@
 
 > [cycle - Циклы](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit1/cycle)
 
-> [line - Линейный программы](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit1/line
-мы)
+> [line - Линейный программы](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit1/line)
