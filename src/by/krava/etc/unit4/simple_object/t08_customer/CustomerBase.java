@@ -1,6 +1,7 @@
 package by.krava.etc.unit4.simple_object.t08_customer;
 
 
+import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Comparator;
 
@@ -26,6 +27,10 @@ public class CustomerBase {
             }
         }
         return list;
+    }
+
+    void addCustomer (String lastName, String firstName, String patronymic, String address, BigInteger cardNumber, long bankAccountNumber){
+        this.base.add(new Customer(lastName, firstName, patronymic, address, cardNumber, bankAccountNumber));
     }
 
     ArrayList<Customer> getBase() {
