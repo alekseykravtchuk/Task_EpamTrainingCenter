@@ -7,13 +7,13 @@
 3. Дана матрица. Вывести k-ю строку и p-й столбец матрицы. 
  
 4. Сформировать квадратную матрицу порядка n по заданному образцу(n - четное):
-![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t04_pattern_matrix1/matrix1.PNG)
+>![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t04_pattern_matrix1/matrix1.PNG)
  
 5. Сформировать квадратную матрицу порядка n по заданному образцу(n - четное): 
-![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/matrix2.PNG)
+>![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/matrix2.PNG)
  
 6. Сформировать квадратную матрицу порядка n по заданному образцу(n - четное): 
- ![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/matrix3.PNG)
+ >![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/matrix3.PNG)
  
 7. Сформировать квадратную матрицу порядка N по правилу:  
    A[I,J] = sin((I^2 - J^2) / N)
