@@ -10,20 +10,10 @@
 ![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t04_pattern_matrix1/matrix1.PNG)
  
 5. Сформировать квадратную матрицу порядка n по заданному образцу(n - четное): 
--   1___1___1_..._1___1___1
--   2___2___2_..._2___2___0
--   3___3___3_..._3___0___0
--   ...................................
--  n-1_n-1__0_..._0___0___0
--   n___0___0_..._0___0___0
+![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t05_pattern_matrix2/matrix2.PNG)
  
 6. Сформировать квадратную матрицу порядка n по заданному образцу(n - четное): 
- -    1___1___1_..._1___1___1
- -    0___1___1_..._1___1___0
- -    0___0___1_..._1___0___0
- -    .......................................
- -    0___1___1_..._1___1___0
- -    1___1___1_..._1___1___1
+ ![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/matrix3.PNG)
  
 7. Сформировать квадратную матрицу порядка N по правилу:  
    A[I,J] = sin((I^2 - J^2) / N)
