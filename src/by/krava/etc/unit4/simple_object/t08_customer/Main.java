@@ -9,16 +9,16 @@ public class Main {
     public static void main(String[] args) {
         CustomerBase vipClient = new CustomerBase("VIP clients", new ArrayList<>());
 
-        vipClient.getBase().add(new Customer("Kravchuk", "Aleksei", "Sergeevich",
-                                     "Minsk", new BigInteger("1111111111111111"), 12345678));
-        vipClient.getBase().add(new Customer("Tereshchenko", "Anastasia", "Vladislavovna",
-                                     "Moscow", new BigInteger("2222222222222222"), 23456789));
-        vipClient.getBase().add(new Customer("Solovei", "Yegor", "Vasilievich",
-                                     "Tallinn", new BigInteger("3333333333333333"), 34567891));
-        vipClient.getBase().add(new Customer("Kovalec", "Svetlana", "Konstantinovna",
-                                     "Warsaw", new BigInteger("4444444444444444"), 45678912));
-        vipClient.getBase().add(new Customer("Saiko", "Dmitry", "Antonovich",
-                                     "Brest", new BigInteger("5555555555555555"), 56789123));
+        vipClient.addCustomer("Kravchuk", "Aleksei", "Sergeevich",
+                              "Minsk", new BigInteger("1111111111111111"), 12345678);
+        vipClient.addCustomer("Tereshchenko", "Anastasia", "Vladislavovna",
+                              "Moscow", new BigInteger("2222222222222222"), 23456789);
+        vipClient.addCustomer("Solovei", "Yegor", "Vasilievich",
+                              "Tallinn", new BigInteger("3333333333333333"), 34567891);
+        vipClient.addCustomer("Kovalec", "Svetlana", "Konstantinovna",
+                              "Warsaw", new BigInteger("4444444444444444"), 45678912);
+        vipClient.addCustomer("Saiko", "Dmitry", "Antonovich",
+                              "Brest", new BigInteger("5555555555555555"), 56789123);
 
         System.out.println("Список покупателей в алфавитном порядке:");
         vipClient.sortName();
