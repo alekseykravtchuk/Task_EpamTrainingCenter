@@ -16,7 +16,7 @@
  -![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t06_pattern_matrix3/matrix3.PNG)
  
 7. Сформировать квадратную матрицу порядка N по правилу:  
-   A[I,J] = sin((I^2 - J^2) / N)
+   -![](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/blob/master/src/by/krava/etc/unit2/multi_array/t07_rule_matrix/Rule.PNG)
    и подсчитать количество положительных элементов в ней.
   
 8. В числовой матрице поменять местами два столбца любых столбца, т. е. все элементы одного столбца поставить на соответствующие им позиции другого, а его элементы второго переместить в первый. Номера столбцов вводит пользователь с клавиатуры. 
