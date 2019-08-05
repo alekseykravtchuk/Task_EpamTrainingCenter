@@ -20,44 +20,44 @@ public class Time {
         this.second = 0;
     }
 
-    public Time(int hour, int minute, int second) {
+    private Time(int hour, int minute, int second) {
         setHour(hour);
         setMinute(minute);
         setSecond(second);
     }
 
-    public void setHour(int hour) {
+    private void setHour(int hour) {
         if (hour > 23 || hour < 0) {
-            hour = 0;
+            this.hour = 0;
         } else {
             this.hour = hour;
         }
     }
 
-    public void setMinute(int minute) {
+    private void setMinute(int minute) {
         if (minute > 59 || minute < 0) {
-            minute = 0;
+            this.minute = 0;
         } else {
             this.minute = minute;
         }
     }
 
-    public void setSecond(int second) {
+    private void setSecond(int second) {
         if (second > 59 || second < 0) {
-            second = 0;
+            this.second = 0;
         } else {
             this.second = second;
         }
     }
 
-    public void changeHour(int hour) {
+    private void changeHour(int hour) {
         this.hour = (this.hour + hour) % 24;
         if (this.hour < 0) {
             this.hour += 24;
         }
     }
 
-    public void changeMinute(int minute) {
+    private void changeMinute(int minute) {
         if ((this.minute + minute) < 0) {
             changeHour(minute / 60 - 1);
             this.minute = 60 + ((this.minute + minute) % 60);
@@ -67,7 +67,7 @@ public class Time {
         }
     }
 
-    public void changeSecond(int second) {
+    private void changeSecond(int second) {
         if ((this.second + second) < 0) {
             changeMinute(second / 60 - 1);
             this.second = 60 + ((this.second + second) % 60);
@@ -77,7 +77,7 @@ public class Time {
         }
     }
 
-    public String getTime() {
+    private String getTime() {
         return String.format("%d:%d:%d", hour, minute, second);
     }
 
