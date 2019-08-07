@@ -1,5 +1,10 @@
 package by.krava.etc.unit4.aggregation_and_composition.t01_text;
 
+/*
+ * Создать объект класса Текст, используя классы Предложение, Слово.
+ * Методы: дополнить текст, вывести на консоль текст, заголовок текста.
+ */
+
 public class Main {
 
     public static void main(String[] args) {
