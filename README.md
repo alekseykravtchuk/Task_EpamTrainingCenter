@@ -6,8 +6,8 @@
 
 > [Unit3 - Strings and basics of text processing](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit3) - [DONE]
 
-> [Unit4 - Programming with classes](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit4) - [IN PROGRESS]
+> [Unit4 - Programming with classes](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit4) - [DONE]
 
-> Unit5 - Basics of OOP - [PLANNED]
+> Unit5 - Basics of OOP - [IN PROGRESS]
 
 > Unit6 - Tasks - [PLANNED]
