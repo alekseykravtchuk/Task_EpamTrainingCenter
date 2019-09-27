@@ -1,0 +1,4 @@
+package by.krava.etc.learn_by.collection;
+
+public enum Country {
+}
