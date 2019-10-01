@@ -1,7 +1,5 @@
 package by.krava.etc.unit4.simple_object.t02_test2;
 
-import by.krava.etc.unit4.simple_object.t01_test1.Test1;
-
 public class CheckTest2 {
 
     public static void main(String[] args) {
