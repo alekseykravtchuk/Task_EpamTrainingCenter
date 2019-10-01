@@ -6,8 +6,6 @@ package by.krava.etc.unit2.decomposition.t05_second_number;
  * больше всех других элементов).
  */
 
-import java.util.Arrays;
-
 public class SecondNumber {
 
     public static void main(String[] args) {

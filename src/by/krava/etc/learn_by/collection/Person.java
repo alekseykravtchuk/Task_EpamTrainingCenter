@@ -1,14 +1,23 @@
 package by.krava.etc.learn_by.collection;
 
-public class Persone implements Comparable<Persone> {
+import java.util.Comparator;
+
+public class Person {
     private int personId;
     private String name;
 
-    public Persone(int personId, String name) {
+    public Person(){}
+    public Person(int personId, String name) {
         this.personId = personId;
         this.name = name;
     }
 
+    public static class NameComparator implements Comparator<Person> {
+        @Override
+        public int compare(Person o1, Person o2) {
+            return o1.getName().compareTo(o2.getName());
+        }
+    }
     public int getPersonId() {
         return personId;
     }
@@ -27,14 +36,14 @@ public class Persone implements Comparable<Persone> {
 
     @Override
     public String toString() {
-        return "Persone{" +
+        return "Person{" +
                 "personId=" + personId +
                 ", name='" + name + '\'' +
                 '}';
     }
 
-    @Override
-    public int compareTo(Persone o) {
+    //@Override
+    //public int compareTo(Person o) {
 //        int result = personId - o.personId;
 //        int value = 0;
 //        if (result > 0) {
@@ -42,6 +51,6 @@ public class Persone implements Comparable<Persone> {
 //        } else if (result < 0) {
 //            value = -1;
 //        }
-        return name.compareTo(o.name);
-    }
+   //     return name.compareTo(o.name);
+   // }
 }

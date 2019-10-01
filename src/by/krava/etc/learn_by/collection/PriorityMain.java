@@ -1,8 +1,8 @@
-package by.krava.etc.learn_by;
+package by.krava.etc.learn_by.collection;
 
 import java.util.Comparator;
-import java.util.Queue;
 import java.util.PriorityQueue;
+import java.util.Queue;
 
 public class PriorityMain {
     public static void main(String[] args) {
