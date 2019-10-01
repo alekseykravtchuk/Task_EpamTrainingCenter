@@ -5,7 +5,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Iterator;
-import java.util.Locale;
 
 public class Calendar {
     private int year;
@@ -80,7 +79,7 @@ public class Calendar {
 
         @Override
         public String toString() {
-            return "Holiday{" + holidayDate.format(DateTimeFormatter.ofPattern("dd.MM.yyyy", new Locale("be", "BY"))) +
+            return "Holiday{" + holidayDate.format(DateTimeFormatter.ofPattern("dd.MM.yyyy")) +
                     " - " + nameOfHoliday + '}';
         }
     }
