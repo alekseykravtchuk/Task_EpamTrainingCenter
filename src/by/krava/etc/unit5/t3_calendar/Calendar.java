@@ -4,6 +4,7 @@ import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.Iterator;
 import java.util.Locale;
 
 public class Calendar {
@@ -41,18 +42,18 @@ public class Calendar {
         holidays.sort(Comparator.comparing(Holiday::getHolidayDate).thenComparing(Holiday::getNameOfHoliday));
     }
 
-//    public Holiday removeHoliday(String nameOfHoliday) {
-//        Holiday removedHoliday = null;
-//        Iterator<Holiday> holidayIterator = holidays.iterator();
-//        while (holidayIterator.hasNext()) {
-//            Holiday nextHoliday = holidayIterator.next();
-//            if (nextHoliday.getNameOfHoliday().equals(nameOfHoliday)) {
-//                removedHoliday = nextHoliday;
-//                holidayIterator.remove();
-//            }
-//        }
-//        return removedHoliday;
-//    }
+    public Holiday removeHoliday(String nameOfHoliday) {
+        Holiday removedHoliday = null;
+        Iterator<Holiday> holidayIterator = holidays.iterator();
+        while (holidayIterator.hasNext()) {
+            Holiday nextHoliday = holidayIterator.next();
+            if (nextHoliday.getNameOfHoliday().equals(nameOfHoliday)) {
+                removedHoliday = nextHoliday;
+                holidayIterator.remove();
+            }
+        }
+        return removedHoliday;
+    }
 
     public void printHolidays() {
         for (Holiday holiday : holidays) {
@@ -80,7 +81,7 @@ public class Calendar {
         @Override
         public String toString() {
             return "Holiday{" + holidayDate.format(DateTimeFormatter.ofPattern("dd.MM.yyyy", new Locale("be", "BY"))) +
-                    ", nameOfHoliday - " + nameOfHoliday + '}';
+                    " - " + nameOfHoliday + '}';
         }
     }
 }

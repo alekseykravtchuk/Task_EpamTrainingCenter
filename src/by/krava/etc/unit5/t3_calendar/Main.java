@@ -23,5 +23,8 @@ public class Main {
         calendar.addHoliday(LocalDate.parse("25.12.2020", dtf), "Catholic Christmas");
 
         calendar.printHolidays();
+
+        Calendar.Holiday holiday = calendar.removeHoliday("October Revolution Day");
+        System.out.println("\nremoved holiday " + holiday);
     }
 }
