@@ -1,5 +1,8 @@
 package by.krava.etc.unit5.t4_dragon_and_treasure;
 
+import by.krava.etc.unit5.t4_dragon_and_treasure.entity.Cave;
+import by.krava.etc.unit5.t4_dragon_and_treasure.entity.ConsoleMenu;
+
 /**
  * Создать консольное приложение, удовлетворяющее следующим требованиям:
  * • Приложение должно быть объектно-, а не процедурно-ориентированным.
@@ -15,5 +18,10 @@ package by.krava.etc.unit5.t4_dragon_and_treasure;
  */
 
 public class DragonAndTreasureMain {
+    private static Cave snakeGorynychcave = new Cave("Snake Gorynych", 100);
 
+    public static void main(String[] args) {
+        ConsoleMenu consoleMenu = new ConsoleMenu();
+        consoleMenu.startConsoleMenu();
+    }
 }
