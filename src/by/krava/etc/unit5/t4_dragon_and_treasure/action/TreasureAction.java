@@ -53,7 +53,8 @@ public class TreasureAction {
     public List<Treasure> fillCaveWithTreasures(int numberOfTreasure) {
         List<Treasure> treasures = new ArrayList<>();
         try {
-            FileReader fileReader = new FileReader("data/treasure_list.txt");
+//            FileReader fileReader = new FileReader("data/treasure_list.txt");
+            FileReader fileReader = new FileReader("src/by/krava/etc/unit5/t4_dragon_and_treasure/data/treasures_list.txt");
             Scanner scanner = new Scanner(fileReader);
             while (scanner.hasNextLine() && numberOfTreasure-- > 0) {
                 String [] treasureLine = scanner.nextLine().split(" - ");
@@ -73,10 +74,13 @@ public class TreasureAction {
                         break;
                     case "Coin":
                         treasures.add(new Coin(treasureName, treasureValue, descriptionOfTreasure));
+                        break;
+                    case "Gem":
+                        treasures.add(new Gem(treasureName, treasureValue, descriptionOfTreasure));
                 }
             }
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.out.println("Treasure information file not found.");
         }
         return treasures;
     }
