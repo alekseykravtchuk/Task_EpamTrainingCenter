@@ -20,7 +20,7 @@ Gem - Chrysocolla or Malachite - 108 - weight-578g, length-109mm, width-89mm, he
 Porcelain - Chinese Porcelain Vase - 999 - Qianlong Pot, 18th Century
 Necklace - Swarovski Byzantine Medieval Necklace - 2120 - Length: about 42 cm ~ 16.54 inches
 Combat Weapon - Chinese Ceremonial Dragon Battle Weapon - 286 - weight 3 pounds 5 ounces
-Combat Weapon - Combat Knife / Dagger - 695 - length 32.3cm
+Combat Weapon - Combat Knife Dagger - 695 - length 32.3cm
 Combat Weapon - Chinese Turquoise Gems Brass Sword - 310 - the sword can date back to the 1920s
 Porcelain - Porcelain Ducks and Waterplants Vase - 1700 - 18th Century
 Porcelain - Chinese Ming Dynasty Wanli Bottle Vase - 999 - 17th Century
@@ -74,9 +74,9 @@ Gem - Blue fluorite - 199 - weight-49g, length-21mm, width-26mm, height-50mm
 Gem - Blue Aquamarine - 169 - weight-28g, length-43mm, width-11.6mm, height-30mm
 Gem - Chrysocolla or Malachite - 108 - weight-578g, length-109mm, width-89mm, height-70mm
 Coin - 1877 S Gold Liberty NGC AU Details - 418 - NGC AU Details
-Gem - Blue fluorite - 199 - weight-49g, length-21mm, width-26mm, height-50mm
-Gem - Blue Aquamarine - 169 - weight-28g, length-43mm, width-11.6mm, height-30mm
-Gem - Chrysocolla or Malachite - 108 - weight-578g, length-109mm, width-89mm, height-70mm
+Gem - Blue fluorite - 250 - weight-49g, length-21mm, width-26mm, height-50mm
+Gem - Blue Aquamarine - 369 - weight-28g, length-43mm, width-11.6mm, height-30mm
+Gem - Chrysocolla or Malachite - 118 - weight-578g, length-109mm, width-89mm, height-70mm
 Porcelain - Chinese Porcelain Vase - 999 - Qianlong Pot, 18th Century
 Necklace - Swarovski Byzantine Medieval Necklace - 2120 - Length: about 42 cm ~ 16.54 inches
 Combat Weapon - Chinese Ceremonial Dragon Battle Weapon - 286 - weight 3 pounds 5 ounces

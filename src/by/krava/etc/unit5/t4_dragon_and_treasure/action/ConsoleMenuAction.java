@@ -1,5 +1,6 @@
 package by.krava.etc.unit5.t4_dragon_and_treasure.action;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class ConsoleMenuAction {
@@ -43,8 +44,19 @@ public class ConsoleMenuAction {
                 treasureAction.chooseMostExpensive();
                 break;
             case 3:
-                System.out.println("Enter the desired range of treasure value with a space.");
-                int [] valueRange = enterValueRange();
+                int [] valueRange = new int[2];
+                boolean isValid = false;
+                while (!isValid) {
+                    System.out.println("Enter the desired range of treasure value with a space.");
+                    Scanner scanner = new Scanner(System.in);
+                    try {
+                        valueRange[0] = scanner.nextInt();
+                        valueRange[1] = scanner.nextInt();
+                        isValid = true;
+                    } catch (InputMismatchException e) {
+                        System.out.println("Invalid input. Try again.");
+                    }
+                }
                 System.out.println(String.format("Treasures value from %d to %d:", valueRange[0], valueRange[1]));
                 treasureAction.selectForGivenAmount(valueRange);
                 break;
@@ -53,18 +65,5 @@ public class ConsoleMenuAction {
                 return true;
         }
         return false;
-    }
-
-    private int [] enterValueRange() {
-        int [] valueRange = new int[2];
-        try {
-            valueRange[0] = scanner.nextInt();
-            valueRange[1] = scanner.nextInt();
-        } catch (NumberFormatException e) {
-            System.out.println("Invalid input. Try again.\n");
-            enterValueRange();
-        }
-        scanner.nextLine();
-        return valueRange;
     }
 }
