@@ -3,6 +3,7 @@ package by.krava.etc.unit5.t4_dragon_and_treasure.entity;
 public abstract class Treasure {
     private String name;
     private int value;
+    private String descriptionOfTreasure;
 
     public String getName() {
         return name;

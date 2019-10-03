@@ -1,13 +1,12 @@
 package by.krava.etc.unit5.t4_dragon_and_treasure.entity;
 
 public class Coin extends Treasure {
-    private String name;
-    private int value;
+
     private String descriptionOfTreasure;
 
     public Coin(String name, int value, String descriptionOfTreasure) {
-        this.name = name;
-        this.value = value;
+        super.setName(name);
+        super.setValue(value);
         this.descriptionOfTreasure = descriptionOfTreasure;
     }
 
@@ -23,6 +22,6 @@ public class Coin extends Treasure {
 
     @Override
     public String toString() {
-        return String.format("%-18s %-40s value: %-5d description: %-40s", "Coin:", name, value,descriptionOfTreasure);
+        return String.format("%-15s %-40s value: %-5d description: %-40s", "Coin:", super.getName(), super.getValue(),descriptionOfTreasure);
     }
 }

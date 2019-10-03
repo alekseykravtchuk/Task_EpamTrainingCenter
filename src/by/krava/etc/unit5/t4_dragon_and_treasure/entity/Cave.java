@@ -1,6 +1,5 @@
 package by.krava.etc.unit5.t4_dragon_and_treasure.entity;
 
-import by.krava.etc.unit5.t4_dragon_and_treasure.action.ConsoleMenuAction;
 import by.krava.etc.unit5.t4_dragon_and_treasure.action.TreasureAction;
 
 import java.util.List;
@@ -8,14 +7,13 @@ import java.util.List;
 public class Cave {
     private String name;
     private int numberOfTreasure;
-    private static List<Treasure> treasures;
+    private List<Treasure> treasures;
     private TreasureAction treasureAction;
 
-    public Cave(String name, int numberOfTreasure) {
+    public Cave(String name) {
         this.name = name;
-        this.numberOfTreasure = numberOfTreasure;
+        this.numberOfTreasure = 0;
         treasureAction = new TreasureAction();
-        treasures = treasureAction.fillCaveWithTreasures(numberOfTreasure);
     }
 
     public String getName() {
@@ -32,13 +30,10 @@ public class Cave {
 
     public void setNumberOfTreasure(int numberOfTreasure) {
         this.numberOfTreasure = numberOfTreasure;
+        this.treasures = treasureAction.fillCaveWithTreasures(numberOfTreasure);
     }
 
-    public static List<Treasure> getTreasures() {
+    public List<Treasure> getTreasures() {
         return treasures;
-    }
-
-    public void setTreasures(List<Treasure> treasures) {
-        this.treasures = treasures;
     }
 }

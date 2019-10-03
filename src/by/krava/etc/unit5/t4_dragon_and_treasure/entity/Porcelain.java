@@ -1,13 +1,12 @@
 package by.krava.etc.unit5.t4_dragon_and_treasure.entity;
 
-public class ChinesePorcelain extends Treasure {
-    private String name;
-    private int value;
+public class Porcelain extends Treasure {
+
     private String descriptionOfTreasure;
 
-    public ChinesePorcelain(String name, int value, String descriptionOfTreasure) {
-        this.name = name;
-        this.value = value;
+    public Porcelain(String name, int value, String descriptionOfTreasure) {
+        super.setName(name);
+        super.setValue(value);
         this.descriptionOfTreasure = descriptionOfTreasure;
     }
 
@@ -23,6 +22,6 @@ public class ChinesePorcelain extends Treasure {
 
     @Override
     public String toString() {
-        return String.format("%-18s %-40s value: %-5d description: %-40s", "Chinese Porcelain:", name, value,descriptionOfTreasure);
+        return String.format("%-15s %-40s value: %-5d description: %-40s", "Porcelain:", super.getName(), super.getValue(),descriptionOfTreasure);
     }
 }

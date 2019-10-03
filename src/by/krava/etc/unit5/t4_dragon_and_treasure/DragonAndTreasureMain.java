@@ -18,10 +18,11 @@ import by.krava.etc.unit5.t4_dragon_and_treasure.entity.ConsoleMenu;
  */
 
 public class DragonAndTreasureMain {
-    private static Cave snakeGorynychcave = new Cave("Snake Gorynych", 100);
+    public static Cave snakeGorynychcave = new Cave("Snake Gorynych");
 
     public static void main(String[] args) {
         ConsoleMenu consoleMenu = new ConsoleMenu();
+        snakeGorynychcave.setNumberOfTreasure(100);
         consoleMenu.startConsoleMenu();
     }
 }

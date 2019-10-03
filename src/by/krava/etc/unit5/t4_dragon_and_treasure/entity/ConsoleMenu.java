@@ -8,8 +8,8 @@ public class ConsoleMenu {
     public void startConsoleMenu(){
         int choice;
         boolean isStopped = false;
+        consoleMenuAction.printOptions();
         while (!isStopped) {
-            consoleMenuAction.printOptions();
             System.out.println("Please enter the number of the operation. \nYour choice: ");
             choice = consoleMenuAction.makeChoice();
             isStopped = consoleMenuAction.processingOperation(choice);

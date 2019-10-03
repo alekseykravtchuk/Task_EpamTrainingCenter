@@ -1,5 +1,6 @@
 package by.krava.etc.unit5.t4_dragon_and_treasure.action;
 
+import by.krava.etc.unit5.t4_dragon_and_treasure.DragonAndTreasureMain;
 import by.krava.etc.unit5.t4_dragon_and_treasure.entity.*;
 
 import java.io.FileNotFoundException;
@@ -12,18 +13,41 @@ public class TreasureAction {
 
     void showAllTreasure() {
         int id = 1;
-        for (Treasure element : Cave.getTreasures()) {
+        for (Treasure element : DragonAndTreasureMain.snakeGorynychcave.getTreasures()) {
             System.out.println(String.format("%-3d %-100s", id++, element));
         }
         System.out.println();
     }
 
-    public void chooseMostExpensive() {
+    void chooseMostExpensive() {
+        int highestPrice = 0;
+        Treasure treasure = null;
+        for (Treasure element : DragonAndTreasureMain.snakeGorynychcave.getTreasures()) {
+            if(element.getValue() > highestPrice) {
+                highestPrice = element.getValue();
+                treasure = element;
+            }
+        }
+        System.out.println(treasure + "\n");
 
     }
 
-    public void selectForGivenAmount() {
-
+    void selectForGivenAmount(int [] valueRange) {
+        List<Treasure> treasures = new ArrayList<>();
+        for (Treasure element : DragonAndTreasureMain.snakeGorynychcave.getTreasures()) {
+            if (element.getValue() >= valueRange[0] && element.getValue() <= valueRange[1]) {
+                treasures.add(element);
+            }
+        }
+        if(treasures.size() == 0) {
+            System.out.println("No options found.\n");
+            return;
+        }
+        int id = 1;
+        for (Treasure element : treasures) {
+            System.out.println(String.format("%-3d %-100s", id++, element));
+        }
+        System.out.println();
     }
 
     public List<Treasure> fillCaveWithTreasures(int numberOfTreasure) {
@@ -31,15 +55,15 @@ public class TreasureAction {
         try {
             FileReader fileReader = new FileReader("data/treasure_list.txt");
             Scanner scanner = new Scanner(fileReader);
-            while (scanner.hasNextLine()) {
+            while (scanner.hasNextLine() && numberOfTreasure-- > 0) {
                 String [] treasureLine = scanner.nextLine().split(" - ");
                 String treasureType = treasureLine[0];
                 String treasureName = treasureLine[1];
                 int treasureValue = Integer.parseInt(treasureLine[2]);
                 String descriptionOfTreasure = treasureLine[3];
                 switch (treasureType) {
-                    case "Chine Porcelain":
-                        treasures.add(new ChinesePorcelain(treasureName, treasureValue, descriptionOfTreasure));
+                    case "Porcelain":
+                        treasures.add(new Porcelain(treasureName, treasureValue, descriptionOfTreasure));
                         break;
                     case "Necklace":
                         treasures.add(new Necklace(treasureName, treasureValue, descriptionOfTreasure));
