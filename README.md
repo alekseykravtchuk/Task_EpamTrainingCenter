@@ -8,6 +8,6 @@
 
 > [Unit4 - Programming with classes](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit4) - [DONE]
 
-> [Unit5 - Basics of OOP](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit5) - [IN PROGRESS]
+> [Unit5 - Basics of OOP](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit5) - [DONE]
 
-> Unit6 - Tasks - [PLANNED]
+> Unit6 - Tasks - [IN PROGRESS]
