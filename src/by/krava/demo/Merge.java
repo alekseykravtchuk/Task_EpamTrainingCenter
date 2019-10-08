@@ -2,6 +2,13 @@ package by.krava.demo;
 
 import java.util.*;
 
+/**
+ * написать эффективный метод объединения двух списков так, чтобы все элементы из
+ * списка b оказались в списке а в отсортированном порядке. Списов b должен остаться
+ * без ихменений.
+ * void merge(List<Integer> a, List<Integer> b) {}
+ */
+
 public class Merge {
     private List<Integer> listA;
     private List<Integer> listB;
