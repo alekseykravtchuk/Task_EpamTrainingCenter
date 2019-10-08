@@ -1,11 +1,9 @@
 package by.krava.etc.unit5.t5_present.builder;
 
 import by.krava.etc.unit5.t5_present.action.CustomerAction;
-import by.krava.etc.unit5.t5_present.entity.Product;
 import by.krava.etc.unit5.t5_present.entity.Wrap;
-
 import java.util.ArrayList;
-import java.util.List;
+
 
 public class CandyPresentBuilder extends PresentBuilder {
 
