@@ -10,4 +10,4 @@
 
 > [Unit5 - Basics of OOP](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit5) - [DONE]
 
-> Unit6 - Tasks - [IN PROGRESS]
+> [Unit6 - Tasks](https://github.com/alekseykravtchuk/Task_EpamTrainingCenter/tree/master/src/by/krava/etc/unit6) - [IN PROGRESS]
