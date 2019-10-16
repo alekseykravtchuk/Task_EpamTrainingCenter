@@ -24,7 +24,7 @@ public class InputUtil {
         if(userLevel == UserLevel.ADMIN) {
             pattern = Pattern.compile("[0-6[9]]");
         } else {
-            pattern = Pattern.compile("[0-2[9]]");
+            pattern = Pattern.compile("[0-3[9]]");
         }
         while (!scanner.hasNext(pattern)) {
             scanner.nextLine();

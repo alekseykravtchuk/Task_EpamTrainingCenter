@@ -1,5 +1,7 @@
 package by.krava.etc.unit6.t1_home_library.entity;
 
+import by.krava.etc.unit6.t1_home_library.util.Email;
+
 public class User {
     private static int genID = 1;
     private int id;
@@ -7,6 +9,7 @@ public class User {
     private String login;
     private String password;
     private UserLevel userLevel;
+    private Email email;
 
     public User() {
         this.id = genID++;
@@ -50,5 +53,13 @@ public class User {
 
     public void setUserLevel(UserLevel userLevel) {
         this.userLevel = userLevel;
+    }
+
+    public Email getEmail() {
+        return email;
+    }
+
+    public void setEmail(Email email) {
+        this.email = email;
     }
 }

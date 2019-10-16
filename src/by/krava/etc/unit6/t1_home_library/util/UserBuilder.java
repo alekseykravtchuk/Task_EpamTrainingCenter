@@ -20,6 +20,11 @@ public class UserBuilder {
         return this;
     }
 
+    public UserBuilder setEmail(Email email) {
+        user.setEmail(email);
+        return this;
+    }
+
     public User build(){
         return user;
     }
