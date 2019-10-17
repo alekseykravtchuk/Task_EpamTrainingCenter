@@ -1,6 +1,5 @@
 package by.krava.etc.unit6.t1_home_library.entity;
 
-import by.krava.etc.unit6.t1_home_library.entity.Book;
 import by.krava.etc.unit6.t1_home_library.util.Email;
 
 public class Letter {

@@ -2,7 +2,6 @@ package by.krava.etc.unit6.t1_home_library.util;
 
 import by.krava.etc.unit6.t1_home_library.entity.*;
 
-import java.util.Iterator;
 import java.util.List;
 
 public class MainMenuUtil {
@@ -67,12 +66,12 @@ public class MainMenuUtil {
                 }
                 break;
             case 2:
-                while (!findBook()) {
+                while (!CatalogUtil.findBook(catalog)) {
                     System.out.println("Error in request, try again.");
                 }
                 break;
             case 3:
-                Book book = createBook();
+                Book book = CatalogUtil.createBook();
                 if (catalog.getUser().getUserLevel() == UserLevel.ADMIN) {
                     if (CatalogUtil.addBook(catalog, book)) {
                         System.out.println("Book successfully added.");
@@ -88,7 +87,7 @@ public class MainMenuUtil {
                 }
                 break;
             case 4:
-                Book removeBook = createBook();
+                Book removeBook = CatalogUtil.createBook();
                 if (CatalogUtil.removeBook(catalog, removeBook)) {
                     System.out.println("Book successfully deleted from catalog.");
                 } else {
@@ -96,12 +95,12 @@ public class MainMenuUtil {
                 }
                 break;
             case 5:
-                if(addUser()) {
+                if(UserUtils.addUser()) {
                     System.out.println("New user added successfully.");
                 }
                 break;
             case 6:
-                if (removeUser()) {
+                if (UserUtils.removeUser()) {
                     System.out.println("User successfully deleted.");
                 }
                 break;
@@ -111,82 +110,5 @@ public class MainMenuUtil {
                 }
 
         }
-    }
-
-    private static Book createBook() {
-        BookBuilder bookBuilder = new BookBuilder();
-        System.out.print("Enter the name of the author: ");
-        bookBuilder.setAuthor(InputUtil.checkInputLine());
-        System.out.print("Enter a title for the book: ");
-        bookBuilder.setTitle(InputUtil.checkInputLine());
-        System.out.print("Enter the year the book was published: ");
-        bookBuilder.setYear(InputUtil.checkInputYear());
-        System.out.print("Enter the type number of the book: 1 - e-book, 2 - paper book:");
-        bookBuilder.setType(InputUtil.checkInputBookType());
-        return bookBuilder.build();
-    }
-
-    private static boolean addUser() {
-        System.out.print("Enter login: ");
-        String login = InputUtil.checkInputLine();
-        List<User> users = UserUtils.getUsers();
-        if (UserUtils.isUserExist(login)) {
-            System.out.println("The user with \"" + login + "\" is exist!");
-            return false;
-        }
-        System.out.print("Enter password: ");
-        String password = InputUtil.checkInputLine();
-        String encryptedPassword = PasswordUtils.md5Custom(password);
-        System.out.println("Enter name: ");
-        String name = InputUtil.checkInputLine();
-        User user = new UserBuilder(login, encryptedPassword).setName(name).setUserLevel(UserLevel.USER).build();
-        users.add(user);
-        FileHandler.saveUserList(users);
-        return true;
-    }
-
-    private static boolean removeUser() {
-        System.out.print("Enter login: ");
-        String login = InputUtil.checkInputLine();
-        List<User> users = UserUtils.getUsers();
-        if (!UserUtils.isUserExist(login)) {
-            System.out.println("The user with \"" + login + "\" does not exist!");
-            return false;
-        }
-        System.out.print("Enter password: ");
-        String password = InputUtil.checkInputLine();
-        Iterator<User> iterator = users.iterator();
-        while (iterator.hasNext()) {
-            User user = iterator.next();
-            if (login.equalsIgnoreCase(user.getLogin())){
-                String encryptedPassword = PasswordUtils.md5Custom(password);
-                if (encryptedPassword.equalsIgnoreCase(user.getPassword())){
-                    iterator.remove();
-                }
-            }
-        }
-        FileHandler.saveUserList(users);
-        return true;
-    }
-
-    private static boolean findBook() {
-        List<Book> books = null;
-        System.out.print("Enter \"1\" to search by author or \"2\" to search by name: ");
-        int request = InputUtil.checkInputChoice(UserLevel.USER);
-        if (request == 1) {
-            System.out.print("Enter author name: ");
-            String author = InputUtil.checkInputLine();
-            books = CatalogUtil.findBookByAuthor(catalog.getBooks(), author);
-        } else if (request == 2) {
-            System.out.print("Enter book title: ");
-            String title = InputUtil.checkInputLine();
-            books = CatalogUtil.findBookByTitle(catalog.getBooks(), title);
-        } else { return false;}
-        if(books.size() != 0) {
-            CatalogUtil.printBooks(books);
-        } else {
-            System.out.println("Book not found. Perhaps the request is incorrect.");
-        }
-        return true;
     }
 }
