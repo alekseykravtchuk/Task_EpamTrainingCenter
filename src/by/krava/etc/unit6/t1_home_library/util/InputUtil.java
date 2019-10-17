@@ -16,7 +16,7 @@ public class InputUtil {
             scanner.nextLine();
             System.out.println("Invalid input. Make sure the line is between 4 and 30 characters long.");
         }
-        return scanner.nextLine();
+        return scanner.nextLine().trim();
     }
 
     public static int checkInputChoice(UserLevel userLevel) {
@@ -53,5 +53,14 @@ public class InputUtil {
         if (scanner.nextInt() == 1) {
             return BookType.EBOOK;
         } else return BookType.PAPER;
+    }
+
+    public static int checkPageNumber() {
+        Pattern pattern = Pattern.compile("[\\d]");
+        while (!scanner.hasNext(pattern)) {
+            scanner.nextLine();
+            System.out.println("Invalid input. Try again.");
+        }
+            return scanner.nextInt();
     }
 }

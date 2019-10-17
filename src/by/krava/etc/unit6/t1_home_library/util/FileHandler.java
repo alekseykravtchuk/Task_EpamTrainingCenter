@@ -42,7 +42,7 @@ public class FileHandler {
                 sb.append(user.getLogin());
                 sb.append(" - ");
                 sb.append(user.getPassword());
-                sb.append(",");
+                sb.append(" - ");
                 sb.append(user.getUserLevel().name().toLowerCase());
                 bw.write(sb.toString());
                 bw.newLine();

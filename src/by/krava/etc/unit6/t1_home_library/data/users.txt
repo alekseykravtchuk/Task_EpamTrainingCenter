@@ -1,2 +1,3 @@
 Admin - login - 5f4dcc3b5aa765d61d8327deb882cf99 - admin
 Guest - user - ee11cbb19052e40b07aac0ca060c23ee - user
+Anatoliy - tolik_lolik - b00681e57e1b4b1ca09f2ca9ee410b68 - user
